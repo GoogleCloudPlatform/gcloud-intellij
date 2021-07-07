@@ -58,3 +58,8 @@ The pre-release binaries published to the Jetbrains plugin repository. To instal
         1. `nightly` - To get the latest and greatest nightly build of the plugin, built from HEAD.
     1. Use the copied URL and add it as a custom plugin repository in the plugin settings following [these instructions](https://www.jetbrains.com/help/idea/managing-plugins.html#repos)
     1. Search for the 'Cloud Code' plugin and install it.
+
+## Security Disclosures
+
+Please see our [security disclosure process](SECURITY.md).  All [security advisories](https://github.com/GoogleCloudPlatform/cloud-code-intellij/security/advisories) are managed on Github.
+
